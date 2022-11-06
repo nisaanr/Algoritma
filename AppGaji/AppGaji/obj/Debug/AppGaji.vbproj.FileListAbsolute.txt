@@ -1,0 +1,9 @@
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\bin\Debug\AppGaji.exe.config
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\bin\Debug\AppGaji.exe
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\bin\Debug\AppGaji.pdb
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\bin\Debug\AppGaji.xml
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\obj\Debug\AppGaji.Resources.resources
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\obj\Debug\AppGaji.vbproj.GenerateResource.Cache
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\obj\Debug\AppGaji.exe
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\obj\Debug\AppGaji.xml
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UTS 2\AppGaji\AppGaji\obj\Debug\AppGaji.pdb
